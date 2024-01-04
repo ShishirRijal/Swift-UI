@@ -56,11 +56,11 @@
 			isa = PBXGroup;
 			children = (
 				DBD6BABD2ABDDA4A00463A72 /* ShapesView.swift */,
+				DB2BB22A2AB098D300E41399 /* TextView.swift */,
 				DB2BB21A2AB0947B00E41399 /* SwiftUIBootCampApp.swift */,
 				DBCADD4D2ABEE9F8009C7AA5 /* ColorsView.swift */,
 				DB2BB21E2AB0947C00E41399 /* Assets.xcassets */,
 				DB2BB2202AB0947C00E41399 /* Preview Content */,
-				DB2BB22A2AB098D300E41399 /* TextView.swift */,
 			);
 			path = SwiftUIBootCamp;
 			sourceTree = "<group>";
